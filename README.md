@@ -12,6 +12,6 @@ Links to a few repos which aren't part of the PSD organization above.
 
 Small repo for keeping track of code snippets and the small things I've learned.
 
-### [Tool Stack](tool_stack.md)
+### [Tool Stack](https://github.com/JamesGlover/JamesGlover/blob/master/tool_stack.md)
 
 Quick notes on some tools or plugins I've found useful.
