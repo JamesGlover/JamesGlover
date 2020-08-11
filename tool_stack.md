@@ -10,7 +10,16 @@ My go-to editor for many years, taking over from Text Mate. Nice and fast.
 
 ### VS Code
 
-I started playing around with VS Code at the start of lock-down due to its excellent [code-collaboration tools](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare). Despite being less performant than Sublime, its become my main editor, thanks to some excellent plugins.
+I started playing around with VS Code at the start of lock-down due to its excellent [code-collaboration tools](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare). Despite being slower than Sublime, its become my main editor, thanks to some excellent extensions.
+
+#### VS Code extensions
+
+These are some of the extensions I've found useful.
+
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+Excellent git history integration, providing quick access to commit messages, history and comparisons. The ability to
+click back and forward through code history is fantastic.
+
 
 ## CLI
 
