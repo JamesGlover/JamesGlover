@@ -15,3 +15,7 @@ Small repo for keeping track of code snippets and the small things I've learned.
 ### [Tool Stack](https://github.com/JamesGlover/JamesGlover/blob/master/tool_stack.md)
 
 Quick notes on some tools or plugins I've found useful.
+
+### [Template Collection](https://github.com/JamesGlover/template_collection)
+
+Selection of templates for the VS Code [Code Template Tool](https://marketplace.visualstudio.com/items?itemName=yuanhjty.code-template-tool) extension. 
