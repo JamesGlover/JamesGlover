@@ -20,6 +20,11 @@ These are some of the extensions I've found useful.
 Excellent git history integration, providing quick access to commit messages, history and comparisons. The ability to
 click back and forward through code history is fantastic.
 
+[Code Template Tool](https://marketplace.visualstudio.com/items?itemName=yuanhjty.code-template-tool)
+Allows you to set-up templates for files, or whole collections of files. Templates
+can take a number of parameters, and happily convert between various case formats.
+Not perfect, I'd love to be able to, say, select a model and automatically generate
+the specs for it, but still very useful. I keep my [templates here](https://github.com/JamesGlover/template_collectio).
 
 ## CLI
 
