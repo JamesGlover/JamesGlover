@@ -29,6 +29,7 @@ the specs for it, but still very useful. I keep my [templates here](https://gith
 ## CLI
 
 ### Bat
+
 [Bat](https://github.com/sharkdp/bat) is a super-charged version of cat, with syntax highlighting, git integration and automatic pagination.
 
 For example `bat --line-range 0:4 *.csv` will render the first 4 lines of every
@@ -51,3 +52,14 @@ csv file, as so:
    4   │ 3,7
 ───────┴────────────────────────────────────────────────────────────────────────
 ```
+
+## Other
+
+### Reveal.js
+
+[Reveal.js](https://revealjs.com) is a javascript presentation framework that makes an
+excellent change from more traditional presentation tools. If you open your text
+editor more frequently than your word-processor its much simpler to use, especially
+with its markdown support. I've just forked the repo, and now all my presentations
+exist as branches of the repository, which means I can easily share them on Github
+once done.
