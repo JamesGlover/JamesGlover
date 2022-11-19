@@ -19,3 +19,5 @@ Quick notes on some tools or plugins I've found useful.
 ### [Template Collection](https://github.com/JamesGlover/template_collection)
 
 Selection of templates for the VS Code [Code Template Tool](https://marketplace.visualstudio.com/items?itemName=yuanhjty.code-template-tool) extension. 
+
+<a rel="me" href="https://fosstodon.org/@JamesG">Mastodon</a>
